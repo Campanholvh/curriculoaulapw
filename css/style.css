@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+#hr1{
+    border-top: medium dashed rgb(0, 0, 0);
+    border-bottom: medium dashed rgb(0, 0, 0);
+    height: 3px;
+    overflow: visible;
+    padding: 0;
+    text-align: center;
+}
+#cabecalho h1{
+    font-family: "Briem Hand";
+    font-size: 50px;
+}
+#corpo{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-family: "Briem Hand";
+    font-size: 30px;
+}
